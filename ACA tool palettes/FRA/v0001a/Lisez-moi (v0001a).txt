@@ -1,0 +1,17 @@
+Les palettes présentes ne sont pas représentatives du portage informatique en cours de réalisation.
+
+Référez-vous à la documentation des mise en place des palettes de productivité pour déployer les deux palettes ACA et le groupe de palettes associé.
+
+L'utilisation de ces palettes ne garantit pas la mise à disposition des bibliothèques natives de composants et catalogues métiers ;
+L'utilisation de ces palettes ne garantit pas la mise à disposition des styles adéquats d'objets AEC ;
+L'utilisation de ces palettes ne garantit pas la mise à disposition des onglets de rubans contextuels ;
+L'utilisation de ces palettes ne garantit pas la mise à disposition d'un profil utilisateur Architecture ;
+L'utilisation de ces palettes ne garantit pas l'apparition de toutes les commandes de base Architecture ;
+Etc.
+
+Pour les utilisateurs de Civil 3D, les commandes Gestionnaire d'affichage et Navigateur de styles sont les plus importantes.
+Les objets AEC ne sont pas paramétrés par défaut pour être représenté en modèle 3D, il faut réactiver l'option dans la partie Représentations par objet (Gestionnaire d'affichage).
+Il n'existe qu'un style Standard par objet pour le moment dans les gabarits Civil 3D.
+Certaines commandes sont désactivées ou partielles dans certaines fenêtres.
+
+D'autres éléments seront transmis sur GitHub en fonction des avancées (état actuel : beta v0001a).
